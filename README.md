@@ -58,6 +58,9 @@ Each page provides analysis **by Year, Season, Crop, and Location**.
 - **Rabi and Kharif seasons** receive higher rainfall than Zaid.
 - **Paddy and Arecanut** are associated with higher rainfall requirements.
 - Locations such as **Bangalore and Raichur** show comparatively higher rainfall.
+  <p align="center">
+  <img src="JPG/Rainfall.jpg" width="900">
+</p>
 
 **Value:**  
 Supports irrigation planning and rainfall-dependent crop selection.
