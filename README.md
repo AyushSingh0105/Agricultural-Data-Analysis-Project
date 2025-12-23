@@ -73,7 +73,9 @@ Supports irrigation planning and rainfall-dependent crop selection.
 - **Kharif and Zaid seasons** show higher average temperatures.
 - **Ginger and Tea** are linked to higher temperature conditions.
 - **Bangalore and Davangere** record higher average temperatures than coastal regions.
-
+<p align="center">
+  <img src="JPG/Temperature.jpg" width="900">
+</p>
 **Value:**  
 Helps align crop planning with temperature suitability.
 
@@ -85,7 +87,9 @@ Helps align crop planning with temperature suitability.
 - Minimal variation across seasons.
 - **Cotton and Pepper** show slightly higher humidity association.
 - **Davangere and Raichur** record marginally higher humidity levels.
-
+<p align="center">
+  <img src="JPG/Humidity.jpg" width="900">
+</p>
 **Value:**  
 Useful for pest control planning and crop disease prevention.
 
@@ -97,7 +101,9 @@ Useful for pest control planning and crop disease prevention.
 - **Rabi season** shows slightly higher average yields.
 - **Cotton, Pepper, and Blackgram** emerge as higher-yielding crops.
 - **Davangere and Raichur** show stronger yield performance.
-
+<p align="center">
+  <img src="JPG/Yield.jpg" width="900">
+</p>
 **Value:**  
 Identifies high-performing crops and regions for productivity optimization.
 
